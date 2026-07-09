@@ -1,6 +1,6 @@
 ```
- _____ ___  ____ _____  __
-|_   _/ _ \|  _ \_ _\ \/ /
+ ___   ___  ____ _____  __
+|_  | / _ \|  _ \_ _\ \/ /
   | || | | | | | | | \  / 
   | || |_| | |_| | | /  \ 
   |_| \___/|____/___/_/\_\
@@ -22,7 +22,7 @@ Un générateur de signature email. Rien de révolutionnaire sur le papier, sauf
 - 🪶 Pas de backend, pas de base de données, pas de facture serveur.
 - 🚀 `git push` et c'est en ligne. GitHub Pages + DNS chez LWS, et ça roule tout seul.
 
-Léger, rapide, sans fioritures. Un peu à mon image.
+Léger, rapide, sans fioritures. 
 
 ## 🛠️ Dans la boîte à outils
 
@@ -30,7 +30,7 @@ Léger, rapide, sans fioritures. Un peu à mon image.
 
 ## 🎓 Le CV en une ligne
 
-Product Builder No-Code (RNCP 6, École Cube) + Google Project Management + ANSSI cyber, greffés sur deux décennies de coordination administrative. Le mélange détonne, mais il marche.
+Product Builder No-Code (École Cube) + Google Project Management + ANSSI cyber, greffés sur deux décennies de coordination administrative. Le mélange détonne, mais il marche.
 
 ---
 
